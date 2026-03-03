@@ -168,18 +168,19 @@ After completing this repository, you will be able to:
 <h2 align="center">🤝 Contributing</h2>
 
 <p align="center">
-Contributions are welcome and appreciated!
+Contributions are welcome and highly appreciated!
 </p>
 
 <p>
-If you'd like to improve this repository, feel free to:
+If you'd like to enhance this repository, you can:
 </p>
 
 <ul>
-  <li>📌 Improve explanations</li>
-  <li>💻 Optimize or add implementations</li>
-  <li>📊 Add visualizations or examples</li>
-  <li>🧠 Contribute new ML concepts</li>
+  <li>📌 Improve theoretical explanations</li>
+  <li>💻 Add new ML algorithm implementations</li>
+  <li>📊 Include visualizations and case studies</li>
+  <li>🧠 Expand advanced ML topics</li>
+  <li>🐞 Fix issues or optimize code</li>
 </ul>
 
 <h3>📌 Steps to Contribute</h3>
@@ -193,7 +194,7 @@ If you'd like to improve this repository, feel free to:
 </pre>
 
 <p>
-Please ensure your code is clean, well-commented, and structured properly.
+Please ensure your code is clean, readable, and properly structured.
 </p>
 
 <hr>
@@ -218,7 +219,7 @@ You are free to:
 </ul>
 
 <p>
-Under the terms of the MIT License.
+Under the conditions of the MIT License.
 </p>
 
 <hr>
@@ -228,14 +229,14 @@ Under the terms of the MIT License.
 <h2 align="center">📬 Contact</h2>
 
 <p align="center">
-<b>Geethanjali M</b> <br>
-B.E Student | Machine Learning Enthusiast <br><br>
+<b>Geethanjali M</b><br>
+B.E Student | Machine Learning Enthusiast<br><br>
 
-<a href="https://github.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<a href="https://github.com/GeethanjaliM25" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-@GeethanjaliM25-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+<a href="https://www.linkedin.com/in/geethanjalimkarnataka/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -244,5 +245,3 @@ B.E Student | Machine Learning Enthusiast <br><br>
 <p align="center">
 ⭐ If you found this project useful, please consider giving it a star!
 </p>
-
-
