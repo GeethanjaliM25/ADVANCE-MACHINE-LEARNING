@@ -163,4 +163,86 @@ After completing this repository, you will be able to:
 - Knowledge transfer
 
 ---
+<!-- ===================== CONTRIBUTING ===================== -->
+
+<h2 align="center">🤝 Contributing</h2>
+
+<p align="center">
+Contributions are welcome and appreciated!
+</p>
+
+<p>
+If you'd like to improve this repository, feel free to:
+</p>
+
+<ul>
+  <li>📌 Improve explanations</li>
+  <li>💻 Optimize or add implementations</li>
+  <li>📊 Add visualizations or examples</li>
+  <li>🧠 Contribute new ML concepts</li>
+</ul>
+
+<h3>📌 Steps to Contribute</h3>
+
+<pre>
+1. Fork the repository
+2. Create a new branch (git checkout -b feature-name)
+3. Commit your changes
+4. Push to your fork
+5. Open a Pull Request
+</pre>
+
+<p>
+Please ensure your code is clean, well-commented, and structured properly.
+</p>
+
+<hr>
+
+<!-- ===================== LICENSE ===================== -->
+
+<h2 align="center">📄 License</h2>
+
+<p align="center">
+This project is licensed under the <b>MIT License</b>.
+</p>
+
+<p>
+You are free to:
+</p>
+
+<ul>
+  <li>✔ Use</li>
+  <li>✔ Modify</li>
+  <li>✔ Distribute</li>
+  <li>✔ Contribute</li>
+</ul>
+
+<p>
+Under the terms of the MIT License.
+</p>
+
+<hr>
+
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">📬 Contact</h2>
+
+<p align="center">
+<b>Geethanjali M</b> <br>
+B.E Student | Machine Learning Enthusiast <br><br>
+
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+<p align="center">
+⭐ If you found this project useful, please consider giving it a star!
+</p>
+
 
