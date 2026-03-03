@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Repository%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -254,5 +253,6 @@ This project is licensed under the MIT License.
 
 <!-- ===================== FOOTER ===================== --> <p align="center"> ⭐ If you found this helpful, please consider giving it a star! </p> <p align="center"> Made with ❤️ by Geethanjali M </p> ```
 🔥 IMPORTANT FOR YOU
+
 
 
