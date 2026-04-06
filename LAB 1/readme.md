@@ -25,11 +25,10 @@ The Find-S algorithm is a concept learning algorithm that determines the most sp
 LAB 1/
 │
 ├── enjoy_sport.csv
-├── play_tennis.csv
+├── tennis.csv
 ├── find_s_enjoy_sport.py
 ├── find_s_play_tennis.py
 ├── find_s.ipynb
-├── Find_S_Report.pdf
 └── README.md
 ```
 
@@ -291,11 +290,10 @@ Inside your repository, keep the folder structure like:
 Repository/
 └── LAB 1/
     ├── enjoy_sport.csv
-    ├── play_tennis.csv
+    ├── tennis.csv
     ├── find_s_enjoy_sport.py
     ├── find_s_play_tennis.py
     ├── find_s.ipynb
-    ├── Find_S_Report.pdf
     └── README.md
 ```
 
