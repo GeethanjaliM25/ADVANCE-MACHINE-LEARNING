@@ -1,7 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">🧠 Advanced Machine Learning Lab Programs</h1>
-<h3>....Contributed by the Department of CSE-AI, Maharaja Institute of Technology Mysore</h3>
+<h3>....Contributed by the Department of CSE-AI, Maharaja Institute of Technology Mysore</h3> 
+
 
 <p align="center">
   🚀 From Theoretical Foundations to Real-World Implementations
