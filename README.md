@@ -41,7 +41,7 @@ This repository contains structured **Advanced Machine Learning** study material
 Designed for:
 - 🎓 Students
 - 📚 Researchers
-- 💼 Aspiring ML Engineers
+- 💼 Aspiring ML Engineers.
 
 ---
 
