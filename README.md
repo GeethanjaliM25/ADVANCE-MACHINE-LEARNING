@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
  
-<h1 align="center">🧠 Advanced Machine Learning Lab Programs</h1>
+<h1 align="center">🧠 Advanced Machine Learning Lab Programs </h1>
 <h3>.l.Contributed by the Department of CSE-AI, Maharaja Institute of TechnologyMysore</h3> 
 
 
