@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 From Theoretical Foundations to Real-World Implementations
-</p>
+</p> 
 
 <p align="center">
 
