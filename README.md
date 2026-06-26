@@ -38,7 +38,7 @@ This repository contains structured **Advanced Machine Learning** study material
 - 🤖 Reinforcement learning concepts
 - 🧠 Analytical & Knowledge-Based Learning
  
-Designed for: 
+Designed for:  
 - 🎓 Students
 - 📚 Researchers
 - 💼 Aspiring ML Engineers.
