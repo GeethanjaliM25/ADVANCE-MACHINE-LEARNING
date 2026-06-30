@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  🚀 From Theoretical Foundations to Real-World Implementations.
+  🚀 From Theoretical Foundations to Real-World Implementations. 
 </p> 
 
 <p align="center">
