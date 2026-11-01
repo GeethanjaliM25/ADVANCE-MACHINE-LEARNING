@@ -4,7 +4,7 @@
 <h3>Department of CSE-AI, Maharaja  Institute of TechnologyMysore  </h3>      
    
   
-<p align="center">
+<p align="center"> 
   🚀 From Theoretical Foundations  to Real-World Implementations 
 </p> 
 
